@@ -12,7 +12,7 @@ node {
          * docker build on the command line */
 
         /* app = docker.build("edureka1/edureka") */
-        app = docker.build("edureka1/edureka")
+        app = docker.build("masterkey80/publicrepo0")
     }
 
     stage('Test image') {
